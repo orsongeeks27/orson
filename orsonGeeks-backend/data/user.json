@@ -1,0 +1,82 @@
+[
+  {
+    "id": 2,
+    "username": "hellonamasthey",
+    "name": "fddvjkedbndzccksdvdc vf  sfdsdsd",
+    "posts": [
+      {
+        "postId": 1,
+        "title": "namsthey",
+        "content": "thelidhu gurthuledhu marchipoya",
+        "journal": false,
+        "prev": {
+          "username": "hellonamasthey",
+          "postId": 3
+        }
+      }
+    ],
+    "discussions": [
+      {
+        "discussionId": 1,
+        "title": "namsthey",
+        "content": "thelidhu gurthuledhu marchipoya",
+        "mentions": [
+          {
+            "id": 1,
+            "username": "hellonamasthey",
+            "postId": 3
+          },
+          {
+            "id": 2,
+            "username": "hellonamasthey",
+            "postId": 3
+          },
+          {
+            "id": 3,
+            "username": "hellonamasthey",
+            "discussionId": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "dfr",
+    "username": "wrefgwerg",
+    "posts": [],
+    "discussions": []
+  },
+  {
+    "id": 3,
+    "name": "thelidhu oya",
+    "username": "hekoij",
+    "posts": [],
+    "discussions": [
+      {
+        "discussionId": 1,
+        "title": "nenu na rakshasi",
+        "content": "junsdkunh",
+        "mentions": []
+      },
+      {
+        "discussionId": 2,
+        "title": "nenu na rakshasi",
+        "content": "junsdkunh",
+        "mentions": [
+          {
+            "username": "hellonamasthey",
+            "postId": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "h",
+    "username": "jhbdsjh",
+    "posts": [],
+    "discussions": []
+  }
+]
